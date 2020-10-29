@@ -1,0 +1,15 @@
+C:\Users\Bobby\source\repos\boretobg\SnakeGame\FirstSnakeGame\bin\Debug\FirstSnakeGame.exe.config
+C:\Users\Bobby\source\repos\boretobg\SnakeGame\FirstSnakeGame\bin\Debug\FirstSnakeGame.exe
+C:\Users\Bobby\source\repos\boretobg\SnakeGame\FirstSnakeGame\bin\Debug\FirstSnakeGame.pdb
+C:\Users\Bobby\source\repos\boretobg\SnakeGame\FirstSnakeGame\obj\Debug\FirstSnakeGame.csprojAssemblyReference.cache
+C:\Users\Bobby\source\repos\boretobg\SnakeGame\FirstSnakeGame\obj\Debug\MainWindow.g.cs
+C:\Users\Bobby\source\repos\boretobg\SnakeGame\FirstSnakeGame\obj\Debug\App.g.cs
+C:\Users\Bobby\source\repos\boretobg\SnakeGame\FirstSnakeGame\obj\Debug\FirstSnakeGame_MarkupCompile.cache
+C:\Users\Bobby\source\repos\boretobg\SnakeGame\FirstSnakeGame\obj\Debug\FirstSnakeGame_MarkupCompile.lref
+C:\Users\Bobby\source\repos\boretobg\SnakeGame\FirstSnakeGame\obj\Debug\MainWindow.baml
+C:\Users\Bobby\source\repos\boretobg\SnakeGame\FirstSnakeGame\obj\Debug\FirstSnakeGame.g.resources
+C:\Users\Bobby\source\repos\boretobg\SnakeGame\FirstSnakeGame\obj\Debug\FirstSnakeGame.Properties.Resources.resources
+C:\Users\Bobby\source\repos\boretobg\SnakeGame\FirstSnakeGame\obj\Debug\FirstSnakeGame.csproj.GenerateResource.cache
+C:\Users\Bobby\source\repos\boretobg\SnakeGame\FirstSnakeGame\obj\Debug\FirstSnakeGame.csproj.CoreCompileInputs.cache
+C:\Users\Bobby\source\repos\boretobg\SnakeGame\FirstSnakeGame\obj\Debug\FirstSnakeGame.exe
+C:\Users\Bobby\source\repos\boretobg\SnakeGame\FirstSnakeGame\obj\Debug\FirstSnakeGame.pdb
